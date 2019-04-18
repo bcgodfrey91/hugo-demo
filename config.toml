@@ -1,4 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "On The Board"
 theme = "learn"
+[params]
+disableSearch = true
+themeVariant = "red"
